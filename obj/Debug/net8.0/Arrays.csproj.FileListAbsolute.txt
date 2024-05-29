@@ -1,0 +1,14 @@
+E:\C#\C# DZ_Sem_1\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\C#\C# DZ_Sem_1\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\C#\C# DZ_Sem_1\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\C#\C# DZ_Sem_1\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\C#\C# DZ_Sem_1\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\C#\C# DZ_Sem_1\Arrays\obj\Debug\net8.0\ref\Arrays.dll
